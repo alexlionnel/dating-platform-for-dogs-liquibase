@@ -4,7 +4,7 @@ import com.dbapresents.datingplatform.breed.Breed;
 
 import javax.persistence.*;
 
-@Entity(name = "PROFILES")
+@Entity(name = "profiles")
 public class Profile {
 
     @Id
